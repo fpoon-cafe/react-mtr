@@ -1,0 +1,62 @@
+table {
+
+    border-color: black;
+    border-style: collapse;
+    table-layout: auto;
+    width: 800px;
+  }
+  th {
+
+    background-color: black;
+    color: whitesmoke;
+    font-size: 10px;
+  }
+  td.express {
+    text-align: center;
+    width: 5%;
+    background-color: red;
+    color: whitesmoke;
+    font-size: 24px;
+  }  
+  td.station {
+    text-align: center;
+    width: 10%;
+    background-color: black;
+    color: orange;
+    font-size: 30px;
+  }    
+  td.date {
+    text-align: center;
+    width: 5%;
+    background-color: black;
+    color: olivedrab;
+    font-size: 36px;
+  }    
+  td.platform {
+    text-align: center;
+    width: 3%;
+    background-color: black;
+    color: orange;
+    font-size: 36px;
+  }    
+  td.small {
+    text-align: center;
+    width: 3%;
+    background-color: blue;
+    color: orange;
+    font-size: 36px;
+  }     
+  td.route {
+    text-align: center;
+    width: 40%;
+    background-color: black;
+    color: orange;
+    font-size: 20px;
+  }      
+  th.th2 {
+    text-align: center;
+    width: 3%;
+    background-color: black;
+    color: whitesmoke;
+    font-size: 15px;
+  }    

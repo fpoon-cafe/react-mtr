@@ -1,0 +1,21 @@
+{"status":1,"message":"successful","curr_time":"2020-06-24 07:09:59","sys_time":"2020-06-24 7:09:59","isdelay":"N",
+    "data":
+    {"TKL-TKO":
+        {"curr_time":"2020-06-24 07:09:59","sys_time":"2020-06-24 7:09:59",
+            "UP":[
+                {"ttnt":"0","valid":"Y","plat":"1","time":"2020-06-24 07:09:00","source":"-","dest":"LHP","seq":"1"},
+                {"ttnt":"2","valid":"Y","plat":"1","time":"2020-06-24 07:11:00","source":"-","dest":"POA","seq":"2"},
+                {"ttnt":"3","valid":"Y","plat":"1","time":"2020-06-24 07:12:00","source":"-","dest":"POA","seq":"3"},
+                {"ttnt":"6","valid":"Y","plat":"1","time":"2020-06-24 07:15:00","source":"-","dest":"POA","seq":"4"},
+                {"ttnt":"8","valid":"Y","plat":"1","time":"2020-06-24 07:17:00","source":"-","dest":"LHP","seq":"5"}
+            ],
+
+            "DOWN":[
+                {"ttnt":"2","valid":"Y","plat":"2","time":"2020-06-24 07:11:00","source":"-","dest":"NOP","seq":"1"},
+                {"ttnt":"4","valid":"Y","plat":"2","time":"2020-06-24 07:13:00","source":"-","dest":"NOP","seq":"2"},
+                {"ttnt":"6","valid":"Y","plat":"2","time":"2020-06-24 07:15:00","source":"-","dest":"NOP","seq":"3"},
+                {"ttnt":"10","valid":"Y","plat":"2","time":"2020-06-24 07:19:00","source":"-","dest":"NOP","seq":"4"}
+            ]
+        }
+    }
+}

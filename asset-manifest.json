@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/fpoon-cafe/react-mtr/static/css/main.eededbd1.chunk.css",
+    "main.js": "/fpoon-cafe/react-mtr/static/js/main.ecb8841e.chunk.js",
+    "runtime-main.js": "/fpoon-cafe/react-mtr/static/js/runtime-main.1b901c00.js",
+    "static/js/2.a91d13e6.chunk.js": "/fpoon-cafe/react-mtr/static/js/2.a91d13e6.chunk.js",
+    "index.html": "/fpoon-cafe/react-mtr/index.html",
+    "precache-manifest.d89e188f28f8353f62569c799371971e.js": "/fpoon-cafe/react-mtr/precache-manifest.d89e188f28f8353f62569c799371971e.js",
+    "service-worker.js": "/fpoon-cafe/react-mtr/service-worker.js",
+    "static/js/2.a91d13e6.chunk.js.LICENSE.txt": "/fpoon-cafe/react-mtr/static/js/2.a91d13e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b901c00.js",
+    "static/js/2.a91d13e6.chunk.js",
+    "static/css/main.eededbd1.chunk.css",
+    "static/js/main.ecb8841e.chunk.js"
+  ]
+}
